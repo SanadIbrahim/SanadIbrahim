@@ -93,11 +93,11 @@ I'm a **Data Science & AI Graduate** from the University of Petra with a passion
   
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| **🤖 AI Procurement System** | ML solution reducing processing time by 80% | Python, TensorFlow, NLP | [View →](https://github.com/SanadIbrahim/ai-procurement) |
-| **📱 Ready Mix Mobile App** | Enterprise app for MIC concrete ordering | Flutter, Firebase, REST API | [View →](https://github.com/SanadIbrahim/ready-mix) |
-| **💰 Financial Data Hub** | Automated financial management system | Python, SQL, Power BI | [View →](https://github.com/SanadIbrahim/financial-hub) |
+| **🤖 AI Procurement System** | ML solution reducing processing time by 80% | Python, TensorFlow, NLP | [View →](https://sanad.pro/ai-procurement-classification-system/) |
+| **📱 Ready Mix Mobile App** | Enterprise app for MIC concrete ordering | Flutter, Firebase, REST API | [View →](https://sanad.pro/ready-mix-mobile-app/) |
+| **💰 Financial Data Hub** | Automated financial management system | Python, SQL, Power BI | [View →](https://sanad.pro/financial-data-hub/) |
 | **🎤 Voice Cloning System** | Cross-language voice synthesis | PyTorch, Deep Learning | [View →](https://github.com/SanadIbrahim/voice-clone) |
-| **📊 Business Intelligence Platform** | Neural network for invoice prediction | TensorFlow, Pandas | [View →](https://github.com/SanadIbrahim/bi-platform) |
+| **📊 Business Intelligence Platform** | Neural network for invoice prediction | TensorFlow, Pandas | [View →](https://sanad.pro/business-intelligence-platform/) |
 
 </div>
 
