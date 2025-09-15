@@ -91,11 +91,11 @@ I'm a **Data Science & AI Graduate** from the University of Petra with a passion
 
 <div align="center">
   
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| **🤖 AI Procurement System** | ML solution reducing processing time by 80% | Python, TensorFlow, NLP | [View →](https://sanad.pro/ai-procurement-classification-system/) |
-| **🎤 Voice Cloning System** | Cross-language voice synthesis | PyTorch, Deep Learning | [View →](https://github.com/SanadIbrahim/voice-clone) |
-| **📊 Business Intelligence Platform** | Neural network for invoice prediction | TensorFlow, Pandas | [View →](https://sanad.pro/business-intelligence-platform/) |
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **🤖 AI Procurement System** | ML solution reducing processing time by 80% | Python, TensorFlow, NLP |
+| **🎤 Voice Cloning System** | Cross-language voice synthesis | PyTorch, Deep Learning |
+| **📊 AI-Powered Invoice Prediction System** | Neural network for invoice prediction | TensorFlow, Pandas |
 
 </div>
 
