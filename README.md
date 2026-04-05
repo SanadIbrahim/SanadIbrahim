@@ -18,7 +18,7 @@
   <a href="mailto:sanad.ghassan.ibrahim@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://sanad.pro">
+  <a href="https://sanad-ai.net">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://wa.me/962797960707">
